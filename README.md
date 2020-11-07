@@ -12,3 +12,10 @@ SK Hynix JDP 환경성과 기여에 따른 Reward 제공
 - ~ 11/15 : 개발
 - ~ 11/16 : 문서정리
 - ~ 11/17 : 
+
+
+# 참고
+
+- https://remix.ethereum.org (smart contract web IDE)
+- https://github.com/OpenZeppelin (secure smart contract sample)
+- https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20 (ERC20 token example)
